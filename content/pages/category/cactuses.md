@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Whisky
 layout: category
 order: 2
 seo:
